@@ -1,1 +1,3 @@
-console.log('Happy developing ✨')
+function mostrarMensagem() {
+    alert("Botão clicado");
+}
